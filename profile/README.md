@@ -1,12 +1,9 @@
-## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ ______                                               ______   _______  _______ 
+(_____ \           _      _                          (_____ \ (_______)(_______)
+ _____) ) _____  _| |_  _| |_  _____  _   _  _____    _____) ) _______     _    
+|  ____/ (____ |(_   _)(_   _)(____ || | | |(____ |  |  __  / |  ___  |   | |   
+| |      / ___ |  | |_   | |_ / ___ || |_| |/ ___ |  | |  \ \ | |   | |   | |   
+|_|      \_____|   \__)   \__)\_____| \__  |\_____|  |_|   |_||_|   |_|   |_|   
+                                     (____/                                     
+                                            Welcome to Pattaya :)
