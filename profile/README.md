@@ -18,7 +18,7 @@ Now Pattaya RAT is already release in Development version you can download using
 ### Panel
 - <b>Qt UI based</b> Cross platform GUI, Say no to HTML
 - <b>Multiple themes</b>
-- <b>Old-School RAT style</b> if you missing DarkComet
+- <b>Old-School RAT style</b> if you miss DarkComet
 
 ### Client
 - <b>C#</b> can using <a href="https://github.com/TheWover/donut" target="_blank">Donut</a> to convert it to shellcode and do what you want
