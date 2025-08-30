@@ -72,11 +72,6 @@ Now Pattaya RAT is already release in Development version you can download using
 +------------------+--------------------------------------------------+
 </pre>
 #### If bugs occurs, feel free to open issue
-# Contact
-<a href="https://twitter.com/haxtivitiez" target="_blank">Twitter</a>
-
-### Developer
-<a href="https://github.com/un4ckn0wl3z" target="_blank">Anuwat Khongchuai (un4ckn0wl3z)</a>
 
 
 
